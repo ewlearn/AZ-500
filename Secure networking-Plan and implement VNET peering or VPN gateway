@@ -1,0 +1,45 @@
+Secure networking-Plan and implement VNET peering or VPN gateway
+
+  planning and implementing VNet peering or VPN gateway
+
+1. Understand the concept of virtual network (VNet) peering and how it can be used to connect Azure VNets. 
+
+2. Understand the concept of Azure VPN gateway and how it can be used to connect Azure VNets to on-premises networks. 
+
+3. Identify the different types of VNet peering in Azure, including same-subscription peering and cross-subscription peering. 
+
+4. Use Azure PowerShell, Azure CLI, or the Azure portal to create, modify, and delete VNet peering connections. 
+
+5. Implement VNet peering to enable communication between Azure VNets without the need for a VPN connection. 
+
+6. Configure VNet peering to enable traffic flow between VNets in different regions or Azure regions. 
+
+7. Use VNet peering to implement hub-and-spoke architectures, where a central VNet acts as a hub and other VNets act as spokes. 
+
+8. Implement VNet peering to share services, such as virtual machines or virtual network gateways, across VNets. 
+
+9. Monitor and troubleshoot VNet peering using Azure Network Watcher and other Azure monitoring tools. 
+
+10. Identify the different types of VPN connections supported by Azure VPN gateway, including Point-to-Site (P2S), Site-to-Site (S2S), and ExpressRoute. 
+
+11. Use Azure PowerShell, Azure CLI, or the Azure portal to create, modify, and delete VPN gateway connections. 
+
+12. Implement Azure VPN gateway to provide secure connectivity between Azure VNets and on-premises networks. 
+
+13. Configure Azure VPN gateway to enable traffic flow between VNets in different regions or Azure regions. 
+
+14. Use Azure VPN gateway to implement hybrid architectures, where on-premises networks are connected to Azure VNets. 
+
+15. Implement Azure VPN gateway to provide secure remote access to virtual machines and other resources within Azure VNets. 
+
+16. Monitor and troubleshoot Azure VPN gateway using Azure Network Watcher and other Azure monitoring tools. 
+
+17. Ensure that VNet peering and VPN gateway configurations are properly documented and regularly reviewed to ensure their effectiveness and alignment with organizational policies. 
+
+18. Implement security controls, such as network security groups (NSGs) and Azure Firewall, to protect VNet peering and VPN gateway connections from unauthorized access and tampering. 
+
+19. Use Azure Policy to enforce VNet peering and VPN gateway configurations and ensure compliance with organizational policies and standards. 
+
+20. Regularly test VNet peering and VPN gateway configurations to ensure that they are functioning as expected and not causing unintended disruptions to traffic flow. 
+
+  

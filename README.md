@@ -1,4 +1,4 @@
-# AZ-500  Secure networking (20–25%)
+# Secure networking-Plan and implement user-defined routes (UDRs) 
 
 Plan and implement user-defined routes (UDRs) 
 
